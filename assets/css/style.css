@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #E0F7FA, #B3E5FC); /* 薄い水色のグラデーション */
+    background: linear-gradient(135deg, #828a8b, #B3E5FC); /* 薄い水色のグラデーション */
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
@@ -50,7 +50,7 @@ body {
 
 .nav-links a {
     text-decoration: none;
-    color: #B0E0E6; /* さらに薄い水色 (PowderBlue) */
+    color: #a1ccd2; /* さらに薄い水色 (PowderBlue) */
     font-weight: bold;
     transition: color 0.3s ease-in-out;
 }
