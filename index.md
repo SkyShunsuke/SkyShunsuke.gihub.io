@@ -2,7 +2,6 @@
 layout: default
 title: "About me"
 ---
-<div class="glass-container">
 
 ## Introduction
 Hello! My name is **Shunsuke Sakai**, and I am a **second-year master student** at **University of Fukui, Japan**.
