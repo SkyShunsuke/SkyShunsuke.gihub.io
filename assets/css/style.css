@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #828a8b, #B3E5FC); /* 薄い水色のグラデーション */
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
@@ -57,5 +57,5 @@ body {
 
 .nav-links a:hover {
     text-decoration: underline;
-    color: #ADD8E6; /* 少し濃い水色 (LightBlue) */
+    color: #7dcae4; /* 少し濃い水色 (LightBlue) */
 }
