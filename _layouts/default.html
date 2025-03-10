@@ -8,6 +8,14 @@
 </head>
 <body>
     {% include navbar.html %}
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">ホーム</a></li>
+                <li><a href="{{ '/about/' | relative_url }}">自己紹介</a></li>
+            </ul>
+        </nav>
+    </header>
     <main>
         {{ content }}
     </main>
