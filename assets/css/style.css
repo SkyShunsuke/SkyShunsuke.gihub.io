@@ -30,10 +30,12 @@
 
 .nav-links a {
     text-decoration: none;
-    color: #007bff;
+    color: #87CEEB; /* 薄い水色 */
     font-weight: bold;
+    transition: color 0.3s ease-in-out;
 }
 
 .nav-links a:hover {
     text-decoration: underline;
+    color: #5FA8D3; /* 少し濃い水色 */
 }
