@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #E0F7FA, #B3E5FC); /* 薄い水色のグラデーション */
+    background: linear-gradient(135deg, #F2F2F2, #E0E0E0); /* 薄い灰色のグラデーション */
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
