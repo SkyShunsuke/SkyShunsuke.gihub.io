@@ -14,7 +14,7 @@ My research primarily focuses on:
 - **Representation Learning** aiming to learn meaningful representation via scalable way. 
 
 ## Academic Background
-- **B.Sc. in Information Engineering**, National Collge of Technology, Ishikawa, Japan [2023]  
+- **B.Sc. in Information Engineering**, National Institute of Technology, Ishikawa College, Japan [2023]  
 
 ## Publifications & Achievements
 {% include publications.html %}

@@ -1,5 +1,11 @@
-- title: "論文タイトル1"
-  authors: "著者1, 著者2"
-  journal: "学術誌名"
+- title: "Noisy Deep Ensemble: Accelerating Deep Ensemble Learning via Noise Injection"
+  authors: "Shunsuke Sakai, Shunsuke Tsuge, and Tatsuhito Hasegawa"
+  journal: "31st International Conference on Neural Information Processing (ICONIP 2024)"
   year: 2024
-  link: "https://example.com"
+  link: ""
+
+- title: "LADMIM: Logical Anomaly Detection with Masked Image Modeling in Discrete Latent Space"
+  authors: "Shunsuke Sakai, Tatsuhito Hasegawa, and Makoto Koshino"
+  journal: "Preprint"
+  year: 2024
+  link: "https://arxiv.org/abs/2410.10234"
